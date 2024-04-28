@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    
+}
+
+img{
+    margin-left: 0.9rem;
+}
+.navbar{
+    background-color: bisque;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    border-radius: 40px;
+    height: 7%;
+    width: 12%;
+}
+.container{
+    margin-top:0.7rem ;
+    margin-bottom:1.2rem ;
+}
+.bg-main {
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.container img{
+    margin:10px ;
+}
